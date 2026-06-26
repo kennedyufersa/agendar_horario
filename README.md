@@ -5,7 +5,7 @@
 Marque os horários que você preferir para as apresentações.
 
 ### 29 de junho
-- [ ] 10:00 (MARIA JENNIFER BEZERRA DA SILVA)
+- [ ] 10:00
 - [ ] 10:15
 - [ ] 10:30
 - [ ] 10:45
@@ -13,10 +13,19 @@ Marque os horários que você preferir para as apresentações.
 - [ ] 11:15
 - [ ] 11:30
 - [ ] 11:45
-- [ ] 12:00
+<br>
+
+- [ ] 18:00
+- [ ] 18:15
+- [ ] 18:30
+- [ ] 18:45
+- [ ] 19:00
+- [ ] 19:15
+- [ ] 19:30
+- [ ] 19:45
 
 ### 30 de junho
-- [x] 10:00
+- [X] 10:00 (MARIA JENNIFER BEZERRA DA SILVA)
 - [ ] 10:15
 - [ ] 10:30
 - [ ] 10:45
@@ -25,3 +34,13 @@ Marque os horários que você preferir para as apresentações.
 - [ ] 11:30
 - [ ] 11:45
 - [ ] 12:00
+<br>
+
+- [ ] 18:00
+- [ ] 18:15
+- [ ] 18:30
+- [ ] 18:45
+- [ ] 19:00
+- [ ] 19:15
+- [ ] 19:30
+- [ ] 19:45
