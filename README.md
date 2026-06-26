@@ -1,9 +1,6 @@
 # README
 
 ## Horários para apresentações
-
-Marque os horários que você preferir para as apresentações.
-
 ### 29 de junho
 - [ ] 10:00
 - [ ] 10:15
