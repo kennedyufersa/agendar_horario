@@ -13,7 +13,7 @@
 <br>
 
 - [ ] 18:00 (Eduardo)
-- [ ] 18:15 (Maria)
+- [ ] 18:15 (Maria Raquel)
 - [ ] 18:30 (Felype)
 - [ ] 18:45 (Pedro Guerra)
 - [ ] 19:00 (Ruth)
