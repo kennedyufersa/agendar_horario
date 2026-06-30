@@ -22,8 +22,8 @@
 - [ ] 19:45
 
 ### 30 de junho
-- [ ] 10:00 (MARIA JENNIFER BEZERRA DA SILVA) - APRESENTANDO
-- [ ] 10:15 (Pedro Martins)
+- [x] 10:00 (MARIA JENNIFER BEZERRA DA SILVA)
+- [ ] 10:15 (Pedro Martins) (Apresentando)
 - [ ] 10:30 (Micaely)
 - [ ] 10:45 (Pedro Queiroz)
 - [ ] 11:00 (João Paiva)
