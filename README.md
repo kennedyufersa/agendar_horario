@@ -2,7 +2,7 @@
 
 ## Horários para apresentações
 ### 29 de junho
-- [ ] 10:00 (Thales)
+- [x] 10:00 (Thales)
 - [ ] 10:15
 - [ ] 10:30
 - [ ] 10:45
@@ -12,17 +12,17 @@
 - [ ] 11:45
 <br>
 
-- [ ] 18:00 (Eduardo)
-- [ ] 18:15 (Maria Raquel)
-- [ ] 18:30 (Felype)
-- [ ] 18:45 (Pedro Guerra)
-- [ ] 19:00 (Ruth)
+- [x] 18:00 (Eduardo)
+- [x] 18:15 (Maria Raquel)
+- [x] 18:30 (Felype)
+- [x] 18:45 (Pedro Guerra)
+- [x] 19:00 (Ruth)
 - [ ] 19:15
 - [ ] 19:30
 - [ ] 19:45
 
 ### 30 de junho
-- [X] 10:00 (MARIA JENNIFER BEZERRA DA SILVA)
+- [ ] 10:00 (MARIA JENNIFER BEZERRA DA SILVA)
 - [ ] 10:15 (Pedro Martins)
 - [ ] 10:30 (Micaely)
 - [ ] 10:45 (Pedro Queiroz)
